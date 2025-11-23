@@ -1,2 +1,2 @@
 # 1st-notebook
-This is my first Repository
+This is my first Python Repository
